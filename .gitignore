@@ -1,0 +1,4 @@
+venv/
+apiProject3/venv/
+__pycache__/
+*.sqlite3
